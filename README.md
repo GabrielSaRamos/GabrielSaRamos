@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD61F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD61F&size=35&center=true&vCenter=true&width=1000&lines=Olá!!+Meu+nome+é+Gabriel+De+Sá+Ramos...;..Formação+em+Análise+e+Desenvolvimento+de+Sistemas...;Seja+muito+bem-vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD61F&size=35&center=true&vCenter=true&width=1000&lines=Hello!!I+am++Gabriel+De+Sá+Ramos...;..Graduate+in+Analysis+and+Development...;Its+a+Honor+your+here...;Be+Welcome(a)!)](https://git.io/typing-svg)
 
  <div align="center" justify-content ="center">
   <a href="https://github.com/GabrielSaRamos">
